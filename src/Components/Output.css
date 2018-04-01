@@ -1,0 +1,9 @@
+.row {
+  display: flex;
+}
+.form-label {
+  font-weight: bold;
+}
+.magnify {
+  font-size: 5rem;
+}
